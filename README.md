@@ -2,11 +2,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Ousrouti</h1>
 <h3 align="center">A self motivated, sociable, Software Engineer.</h3>
 
-- 🔭 I’m currently working on **AI Doctor**
+- I’m currently working on **AI Doctor**
+- To see my Image Compressor project, click <a href = "https://drive.google.com/drive/folders/1c5o6XAoqeaBSrqrox4kbDbXIrBXN-MsU?usp=sharing">here</a>!
+- To see my Study Website project, click <a href = "https://drive.google.com/drive/folders/1nmp9ldx3zEqygUBrHIIyKt1yEw4nqL1B?usp=sharing">here</a>! 
+- To see my Maze Generator/Solver project, click <a href = "">here</a>!
 
-- 📫 How to reach me **elousrouti.m@northeastern.edu**
+- 📫 You can reach me at **elousrouti.m@northeastern.edu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href = "https://www.linkedin.com/in/mohamedelousrouti/">Connect</a> with me on LinkedIn!</h3>
 <p align="left">
 </p>
 
