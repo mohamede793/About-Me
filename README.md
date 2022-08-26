@@ -5,7 +5,7 @@
 - I’m currently working on **AI Doctor**
 - To see my Image Compressor project, click <a href = "https://drive.google.com/drive/folders/1c5o6XAoqeaBSrqrox4kbDbXIrBXN-MsU?usp=sharing">here</a>!
 - To see my Study Website project, click <a href = "https://drive.google.com/drive/folders/1nmp9ldx3zEqygUBrHIIyKt1yEw4nqL1B?usp=sharing">here</a>! 
-- To see my Maze Generator/Solver project, click <a href = "">here</a>!
+- To see my Maze Generator/Solver project, click <a href = "">here</a>! (link not available, will get video uploaded by 8/30)
 
 - 📫 You can reach me at **elousrouti.m@northeastern.edu**
 
